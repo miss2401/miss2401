@@ -4,43 +4,20 @@
 <br>My major is Managemnt Information System.
 <br>Currently learning about data engineering and development operations.<br>It changes all the time.
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20I'm%20Thanh&fontSize=70" />
-</div>
-
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Linux](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
 ## 🚀 About Me
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td width="70%" style="border: none; vertical-align: top;">
-      <h3>Software Engineer | Aspiring Data Engineer | AI Enthusiast</h3>
-      <p>
-        I am a student at <b>Hanoi University of Science and Technology (HUST)</b>, focusing on building scalable data pipelines and intelligent systems. I thrive on solving complex algorithmic problems and optimizing performance.
-      </p>
+      <h3>Development Operations | Data Engineer | AI Engineer</h3>
       <ul>
-        <li><b>GPA:</b> 3.28/4.0</li>
-        <li><b>DSA Score:</b> 9.8/10 🎯</li>
-        <li><b>Primary OS:</b> Fedora KDE Plasma (Linux enthusiast)</li>
-        <li><b>Current Goal:</b> Mastering Big Data workflows and Deep Learning architectures.</li>
+        <li><b>GPA:</b> 3.32/4.0</li>
+        <li><b>Primary OS:</b> Fedora KDE Plasma </li>
+        <li><b>Current Goal:</b> Anticipate upcoming trends and shifts.</li>
       </ul>
       <blockquote>
-        <b>"Never Too Late to Pursue Your Dreams"</b><br/>
         <i>I believe that continuous learning is the only way to stay ahead in the tech landscape.</i>
       </blockquote>
-    </td>
-    <td width="30%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Developer GIF" width="100%"/>
     </td>
   </tr>
 </table>
@@ -59,7 +36,7 @@
 - **Databases:** MySQL, PostgreSQL, MS SQL Server, MongoDB
 
 ### 🔧 Tools & Environment
-- **VCS:** Git, GitHub
+- **VCS:** Git, GitHub, Gitlab
 - **Environment:** Visual Studio Code, Linux (Fedora/Ubuntu/Arch)
 - **Formatting:** LaTeX (for technical documentation)
 
