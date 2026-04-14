@@ -1,6 +1,8 @@
 # Welcome to my Github 🥳
 # 💫 About Me:
-I'm a sophomore of Hanoi Unieversity of Science and Technology(HUST).<br>My major is Managemnt Information System.<br>Currently learning about data engineering and development operations.<br>It changes all the time.
+**I'm a sophomore of Hanoi Unieversity of Science and Technology(HUST).
+<br>My major is Managemnt Information System.
+<br>Currently learning about data engineering and development operations.<br>It changes all the time.
 
 
 # 💻 Tech Stack:
