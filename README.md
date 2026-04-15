@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Scripting
-- **Core:** C/C++, Python, Java, TypeScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Scripting:** Bash, PowerShell
 
 ### 📊 Data Engineering & AI
