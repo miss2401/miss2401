@@ -9,7 +9,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td width="70%" style="border: none; vertical-align: top;">
-      <h3>Development Operations | Data Engineer | AI Engineer</h3>
+      <h3>Development Operations | Data Engineer | AI Engineer | Business Analyst</h3>
       <ul>
         <li><b>GPA:</b> 3.32/4.0</li>
         <li><b>Primary OS:</b> Fedora</li>
