@@ -12,7 +12,7 @@
       <h3>Development Operations | Data Engineer | AI Engineer | Business Analyst</h3>
       <ul>
         <li><b>CPA:</b> 3.48/4.0</li>
-        <li><b>Primary OS:</b> Fedora</li>
+        <li><b>Primary OS:</b>Arch, btw</li>
         <li><b>Current Goal:</b> Anticipate upcoming trends and shifts.</li>
       </ul>
       <blockquote>
